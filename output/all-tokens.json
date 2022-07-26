@@ -1,0 +1,168 @@
+[
+    {
+        "id": "3f017c1d-82ca-47bf-ae75-4a2c9de5fae6",
+        "createdAt": "2022-07-26T07:59:57.178Z",
+        "updatedAt": "2022-07-26T07:59:57.178Z",
+        "name": "Rectangle 1",
+        "value": {
+            "a": 1,
+            "b": 102,
+            "g": 64,
+            "r": 254
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/wLOstD6BAQviR0kX4lwAss",
+            "originFrameName": "colors"
+        },
+        "type": "color",
+        "originId": "1099:1530",
+        "sourceId": "7ea6f33c-e2de-424e-9892-b78c34491d65",
+        "repositoryId": "bb23889c-e679-4e6d-ab24-fb32e2127dc4"
+    },
+    {
+        "id": "bfdc0980-3d8e-4f54-89dc-4d6fb69ce97f",
+        "createdAt": "2022-07-26T08:06:48.136Z",
+        "updatedAt": "2022-07-26T08:06:48.136Z",
+        "name": "Rectangle 1",
+        "value": [],
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/wLOstD6BAQviR0kX4lwAss",
+            "originFrameName": "colors"
+        },
+        "type": "shadow",
+        "originId": "1099:1530",
+        "sourceId": "e2f8dcbe-20bf-41ba-8852-60f9f404fc26",
+        "repositoryId": "bb23889c-e679-4e6d-ab24-fb32e2127dc4"
+    },
+    {
+        "id": "53114b61-8fc1-4445-a3ce-396c9587a636",
+        "createdAt": "2022-07-26T07:59:57.183Z",
+        "updatedAt": "2022-07-26T07:59:57.183Z",
+        "name": "Rectangle 2",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 157,
+            "r": 0
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/wLOstD6BAQviR0kX4lwAss",
+            "originFrameName": "colors"
+        },
+        "type": "color",
+        "originId": "1099:1531",
+        "sourceId": "7ea6f33c-e2de-424e-9892-b78c34491d65",
+        "repositoryId": "bb23889c-e679-4e6d-ab24-fb32e2127dc4"
+    },
+    {
+        "id": "b73bd9a6-26cf-4149-834b-49f4eba4940a",
+        "createdAt": "2022-07-26T08:06:48.146Z",
+        "updatedAt": "2022-07-26T08:06:48.146Z",
+        "name": "Rectangle 2",
+        "value": [],
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/wLOstD6BAQviR0kX4lwAss",
+            "originFrameName": "colors"
+        },
+        "type": "shadow",
+        "originId": "1099:1531",
+        "sourceId": "e2f8dcbe-20bf-41ba-8852-60f9f404fc26",
+        "repositoryId": "bb23889c-e679-4e6d-ab24-fb32e2127dc4"
+    },
+    {
+        "id": "c90f6f1b-0c56-4dc9-a185-0e1f99efd8d4",
+        "createdAt": "2022-07-26T08:06:48.149Z",
+        "updatedAt": "2022-07-26T08:06:48.149Z",
+        "name": "Rectangle 3",
+        "value": [
+            {
+                "blur": {
+                    "value": {
+                        "unit": "px",
+                        "measure": 4
+                    }
+                },
+                "color": {
+                    "value": {
+                        "a": 0.25,
+                        "b": 0,
+                        "g": 0,
+                        "r": 0
+                    }
+                },
+                "isInner": false,
+                "offsetX": {
+                    "value": {
+                        "unit": "px",
+                        "measure": 0
+                    }
+                },
+                "offsetY": {
+                    "value": {
+                        "unit": "px",
+                        "measure": 4
+                    }
+                }
+            }
+        ],
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/wLOstD6BAQviR0kX4lwAss",
+            "originFrameName": "colors"
+        },
+        "type": "shadow",
+        "originId": "1099:1534",
+        "sourceId": "e2f8dcbe-20bf-41ba-8852-60f9f404fc26",
+        "repositoryId": "bb23889c-e679-4e6d-ab24-fb32e2127dc4"
+    },
+    {
+        "id": "6e10f065-8ff5-4d43-8b7b-5bbb05007336",
+        "createdAt": "2022-07-26T08:06:48.148Z",
+        "updatedAt": "2022-07-26T08:06:48.148Z",
+        "name": "Rectangle 4",
+        "value": [
+            {
+                "blur": {
+                    "value": {
+                        "unit": "px",
+                        "measure": 12
+                    }
+                },
+                "color": {
+                    "value": {
+                        "a": 0.4,
+                        "b": 0,
+                        "g": 0,
+                        "r": 0
+                    }
+                },
+                "isInner": false,
+                "offsetX": {
+                    "value": {
+                        "unit": "px",
+                        "measure": 0
+                    }
+                },
+                "offsetY": {
+                    "value": {
+                        "unit": "px",
+                        "measure": 8
+                    }
+                }
+            }
+        ],
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/wLOstD6BAQviR0kX4lwAss",
+            "originFrameName": "colors"
+        },
+        "type": "shadow",
+        "originId": "1103:1535",
+        "sourceId": "e2f8dcbe-20bf-41ba-8852-60f9f404fc26",
+        "repositoryId": "bb23889c-e679-4e6d-ab24-fb32e2127dc4"
+    }
+]
